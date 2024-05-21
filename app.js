@@ -19,7 +19,8 @@ const bookingRouter = require("./routes/bookingRoutes");
 const bookingController = require("./controllers/bookingController");
 const viewRouter = require("./routes/viewRoutes");
 
-// Start express app
+// hello all this where express app starts
+
 const app = express();
 
 // app.enable("trust proxy");
