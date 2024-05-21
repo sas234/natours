@@ -1,3 +1,3 @@
-# Natours Application
+# my natours website
 
-Built using Node.js, express, MongoDb, mongoose and friends 🎉
+This application is build using mongodb,mongoose,node js, express js and rest api.
